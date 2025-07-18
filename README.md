@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Felix 👋
 
-<!--
-**xSayZ/xSayZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Video Game Programmer Student**  
+I'm an examined game programmer student with a passion for creating immersive gameplay experiences. Currently, I'm working on **Project Driftline**, pushing the boundaries of fun and innovation.
 
-Here are some ideas to get you started:
+🛠️ **Skills & Tools**
+- **Unity** (C#) — 7 years of hands-on experience
+- Gameplay systems, mechanics, and optimization
+- Rapid prototyping and debugging
+- Collaborative development and version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚧 **Current Project**
+### Project Driftline
+A fast-paced, physics-driven survival game project focused on dynamic movement. Stay tuned for more updates, devlogs, and playable builds!
+
+👾 **Personal Interests**
+- Avid gamer and enthusiast of all genres
+- Always exploring new technologies and game engines
+- Driven by curiosity and the love for building fun worlds
