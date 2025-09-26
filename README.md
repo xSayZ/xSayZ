@@ -1,6 +1,6 @@
 # Hi, I'm Felix 👋
 
-🎮 **Video Game Programmer Student**  
+🎮 **Video Game Programmer**  
 I'm an examined game programmer student with a passion for creating immersive gameplay experiences. Currently, I'm working on **Project Driftline**, pushing the boundaries of fun and innovation.
 
 🛠️ **Skills & Tools**
